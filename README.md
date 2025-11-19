@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ava
-- 👀 I’m interested in edTech, web development, and AI tools
+
